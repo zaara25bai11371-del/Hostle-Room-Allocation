@@ -1,0 +1,9 @@
+# compiled classes
+*.class
+out/
+
+# editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
